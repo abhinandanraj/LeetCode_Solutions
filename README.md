@@ -11,7 +11,7 @@
 ## Medium
 | # | Title | Solution |  Topic | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
-||[]() | [Java]()| | Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java]()| Math| Medium|
 
 ## Hard
 | # | Title | Solution |  Topic | Difficulty |
