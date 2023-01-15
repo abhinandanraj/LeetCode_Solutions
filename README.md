@@ -17,7 +17,7 @@
   --- 
  
 <details>
-<summary><img id="January" src="https://img.shields.io/badge/January_2022-31-red?style=for-the-badge"></summary>
+<summary><img id="January" src="https://img.shields.io/badge/January_2023-31-red?style=for-the-badge"></summary>
 
 | Date                | #   | Problems                                                                                          | Solutions        |
 |:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|
