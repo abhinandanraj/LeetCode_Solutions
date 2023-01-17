@@ -11,7 +11,7 @@
 | S.N         |   #    | Problems                                                                                          | Solutions        |
 |:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|
 |  01           ||     []() ||
-|  02           |226|     [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) ||
+|  02           |226|     [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |<a href="https://github.com/abhinandanraj/LeetCode_Solutions/blob/main/Solutions/100%20LeetCode%20Challenges/Invert%20Binary%20Tree.java"><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
  
   </details>
   
