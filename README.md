@@ -13,8 +13,10 @@
 |  01           |101 |     [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |<a href="https://github.com/abhinandanraj/LeetCode_Solutions/blob/main/Solutions/100%20LeetCode%20Challenges/Symmetric%20Tree.java"><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
 |  02           |226|     [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |<a href="https://github.com/abhinandanraj/LeetCode_Solutions/blob/main/Solutions/100%20LeetCode%20Challenges/Invert%20Binary%20Tree.java"><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
 |  03           |617|     [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |<a href="https://github.com/abhinandanraj/LeetCode_Solutions/blob/main/Solutions/100%20LeetCode%20Challenges/Merge%20Two%20Binary%20Trees.java"><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
+|  04           |1|     [Two Sum](https://leetcode.com/problems/two-sum/description/) |<a href=""><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
+|  05           |217|     [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |<a href=""><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
   </details>
-  
+
   --- 
  
 <details>
