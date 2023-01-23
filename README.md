@@ -15,7 +15,7 @@
 |  03           |617|     [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |<a href="https://github.com/abhinandanraj/LeetCode_Solutions/blob/main/Solutions/100%20LeetCode%20Challenges/Merge%20Two%20Binary%20Trees.java"><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
 |  04           |1|     [Two Sum](https://leetcode.com/problems/two-sum/description/) |<a href=""><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
 |  05           |217|     [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |<a href=""><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
-|  06           |206|     [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |<a href=""><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
+|  06           |206|     [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |<a href="https://github.com/abhinandanraj/LeetCode_Solutions/blob/main/Solutions/100%20LeetCode%20Challenges/Reverse%20Linked%20List.java"><img src="https://img.shields.io/badge/Solution-lightgreen"></a>||
   </details>
 
   --- 
