@@ -6,7 +6,7 @@
 ---
 
  <details>
-<summary><img id="100 LeetCode Challenges" src="https://img.shields.io/badge/100_LeetCode_Challenges-red?style=for-the-badge"></summary>
+<summary><img id="100 LeetCode Challenges" src="https://img.shields.io/badge/100_LeetCode_Challenges-tan?style=for-the-badge"></summary>
 
 | S.N         |   #    | Problems                                                                                          | Solutions        |
 |:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|
@@ -22,11 +22,11 @@
   --- 
  
 <details>
-<summary><img id="January" src="https://img.shields.io/badge/January_2023-31-red?style=for-the-badge"></summary>
+<summary><img id="January" src="https://img.shields.io/badge/January_2023-31-silver?style=for-the-badge"></summary>
 
-| Date                | #   | Problems                                                                                          | Solutions        |
-|:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|
- | January 01         ||      | []() ||
+| Date                | #   | Problems                                                                                          | Solutions        | Difficulty | 
+|:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|-----------| 
+ | January 01         ||      | []() || 
  | January 02               | []() ||
  | January 03               | []() ||
  | January 04              | []() ||
@@ -57,6 +57,43 @@
  | January 29               | []() ||
  | January 30               | []() ||
  | January 31               | []() ||
+ 
+  </details>
+  
+  --- 
+<details>
+<summary><img id="January" src="https://img.shields.io/badge/February_2023-28-red?style=for-the-badge"></summary>
+
+| Date                | #   | Problems                                                                                          | Solutions        | Difficulty | 
+|:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|----------| 
+ | February 01         ||       []() ||
+ | February 02         ||       []() ||
+ | February 03         ||       []() ||
+ | February 04         ||       []() ||
+ | February 05         ||       []() ||
+ | February 06         ||       []() ||
+ | February 07         ||       []() ||
+ | February 08         ||       []() ||
+ | February 09         ||       []() ||
+ | February 10         ||       []() ||
+ | February 11         ||       []() ||
+ | February 12         ||       []() ||
+ | February 13         ||       []() ||
+ | February 14         ||       []() ||
+ | February 15         ||       []() ||
+ | February 16         |1718| [Construct the Lexicographically Largest Valid Sequence ](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/?envType=daily-question&envId=2025-02-16) |<a href=""><img src="https://img.shields.io/badge/Solution-lightgreen"></a>| <a href=""><img src="https://img.shields.io/badge/Medium-yellow"></a>
+ | February 17         ||       []() ||
+ | February 18         ||       []() ||
+ | February 19         ||       []() ||
+ | February 20         ||       []() ||
+ | February 21         ||       []() ||
+ | February 22         ||       []() ||
+ | February 23         ||       []() ||
+ | February 24         ||       []() ||
+ | February 25         ||      []() ||
+ | February 26         ||       []() ||
+ | February 27         ||       []() ||
+ | February 28         ||       []() ||
  
   </details>
   
