@@ -22,7 +22,7 @@
   --- 
  
 <details>
-<summary><img id="January" src="https://img.shields.io/badge/January_2023-31-silver?style=for-the-badge"></summary>
+<summary><img id="January" src="https://img.shields.io/badge/January_2025-31-silver?style=for-the-badge"></summary>
 
 | Date                | #   | Problems                                                                                          | Solutions        | Difficulty | 
 |:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|-----------| 
@@ -62,7 +62,7 @@
   
   --- 
 <details>
-<summary><img id="January" src="https://img.shields.io/badge/February_2023-28-red?style=for-the-badge"></summary>
+<summary><img id="January" src="https://img.shields.io/badge/February_2025-28-red?style=for-the-badge"></summary>
 
 | Date                | #   | Problems                                                                                          | Solutions        | Difficulty | 
 |:-------------------:|---|------------------------------------------------------------------------------------------------------|:----------------:|----------| 
